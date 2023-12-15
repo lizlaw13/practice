@@ -25,5 +25,5 @@ function sockMerchant(ar) {
         }
     }
     return count;
-    
+
 }
